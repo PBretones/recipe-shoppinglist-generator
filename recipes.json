@@ -88,5 +88,94 @@
       }
     ],
     "comment": "Facil y sencillo, juntas los tres ingredientes y queda de lujo"
+  },
+  {
+    "recipeName": "Lunes Media Mañana",
+    "category": [
+      "Media Mañana"
+    ],
+    "priority": 1,
+    "ingredients": [
+      {
+        "amount": 150,
+        "unit": "g",
+        "name": "2 Bagels Classico",
+        "department": "Pan"
+      },
+      {
+        "amount": 50,
+        "unit": "g",
+        "name": "2 Lonchas de queso manchego",
+        "department": "Lácteos"
+      },
+      {
+        "amount": 90,
+        "unit": "g",
+        "name": "Pechuga de Pavo",
+        "department": "Obst- und Gemüse"
+      }
+    ],
+    "comment": "Media mañana del lunes"
+  },
+  {
+    "recipeName": "Lunes Comida",
+    "category": [
+      "Comida"
+    ],
+    "priority": 1,
+    "ingredients": [
+      {
+        "amount": 380,
+        "unit": "g",
+        "name": "Arroz Metabolico Atun y Huevo",
+        "department": "Comilona"
+      },
+      {
+        "amount": 65,
+        "unit": "g",
+        "name": "2 Paquetes de tortitas Maiz 54% Chocolate Negro",
+        "department": "Lácteos"
+      },
+      {
+        "amount": 220,
+        "unit": "g",
+        "name": "2 Kiwis",
+        "department": "Fruta"
+      }
+    ],
+    "comment": "Comida del lunes"
+  },
+  {
+    "recipeName": "Lunes Merienda/Cena",
+    "category": [
+      "Merienda/Cena"
+    ],
+    "priority": 1,
+    "ingredients": [
+      {
+        "amount": 250,
+        "unit": "g",
+        "name": "Queso fresco batido desnatado",
+        "department": "Lácteo"
+      },
+      {
+        "amount": 40,
+        "unit": "g",
+        "name": "Crema de Cacahuete (2 cucharadas soperas)",
+        "department": "Snack"
+      },
+      {
+        "amount": 300,
+        "unit": "g",
+        "name": "2 Plátanos",
+        "department": "Fruta"
+      },
+      {
+        "amount": 40,
+        "unit": "g",
+        "name": "Avena Crunchy 85% Integral Hacendado",
+        "department": "Cereal"
+      }],
+    "comment": "Media mañana del lunes"
   }
 ]
