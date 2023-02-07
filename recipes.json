@@ -128,6 +128,26 @@
         "amount": 380,
         "unit": "g",
         "name": "Arroz Metabolico Atun y Huevo",
+        "ingredients": [
+          {
+            "amount": 110,
+            "unit": "g",
+            "name": "Arroz",
+            "department": "Kühlregal"
+          },
+          {
+            "amount": 2,
+            "unit": "Packung",
+            "name": "Rucula SalatAtun",
+            "department": "Obst- und Gemüse"
+          },
+          {
+            "amount": 2,
+            "unit": "Packung",
+            "name": "Huevo",
+            "department": "Obst- und Gemüse"
+          }
+        ],
         "department": "Comilona"
       },
       {
@@ -175,7 +195,197 @@
         "unit": "g",
         "name": "Avena Crunchy 85% Integral Hacendado",
         "department": "Cereal"
-      }],
+      }
+    ],
     "comment": "Media mañana del lunes"
+  },
+  {
+    "recipeName": "Martes Media Mañana",
+    "category": [
+      "Media Mañana"
+    ],
+    "priority": 1,
+    "ingredients": [
+      {
+        "amount": 150,
+        "unit": "g",
+        "name": "Pan Integral de Barra",
+        "department": "Pan"
+      },
+      {
+        "amount": 90,
+        "unit": "g",
+        "name": "Jamon Serrano",
+        "department": "Desayuno"
+      },
+      {
+        "amount": 9,
+        "unit": "g",
+        "name": "Aceite Oliva (cucharada)",
+        "department": "Desayuno"
+      }
+    ]
+  },
+  {
+    "recipeName": "Martes Comida",
+    "category": [
+      "Comida"
+    ],
+    "priority": 1,
+    "ingredients": [
+      {
+        "amount": 220,
+        "unit": "g",
+        "name": "Pasta Alimenticia,cruda",
+        "department": "Cereal"
+      },
+      {
+        "amount": 200,
+        "unit": "g",
+        "name": "Solomillo de ternera",
+        "department": "Lácteos"
+      },
+      {
+        "amount": 220,
+        "unit": "g",
+        "name": "Tomate frito sin azúcares, Mercadona",
+        "department": "Fruta"
+      },
+      {
+        "amount": 70,
+        "unit": "g",
+        "name": "Queso Parmesano",
+        "department": "Lácteos"
+      }
+    ],
+    "comment": "Comida del martes"
+  },
+  {
+    "recipeName": "Martes Merienda/Cena",
+    "category": [
+      "Merienda/Cena"
+    ],
+    "priority": 1,
+    "ingredients": [
+      {
+        "amount": 50,
+        "unit": "g",
+        "name": "Anacardos",
+        "department": "Frutos Secos"
+      },
+      {
+        "amount": 240,
+        "unit": "g",
+        "name": "2 Yogures proteicos (Natural,Chocolate,Mango,Arándano o Fresa)",
+        "department": "Lácteos"
+      },
+      {
+        "amount": 180,
+        "unit": "g",
+        "name": "1 Manzana",
+        "department": "Fruta"
+      }
+    ],
+    "comment": "Merienda/Cena del martes"
+  },
+  {
+    "recipeName": "Miércoles Media Mañana",
+    "category": [
+      "Media Mañana"
+    ],
+    "priority": 1,
+    "ingredients": [
+      {
+        "amount": 150,
+        "unit": "g",
+        "name": "Pan Integral de Barra",
+        "department": "Pan"
+      },
+      {
+        "amount": 90,
+        "unit": "g",
+        "name": "Lomo embuchado",
+        "department": "Desayuno"
+      },
+      {
+        "amount": 9,
+        "unit": "g",
+        "name": "Aceite Oliva (cucharada)",
+        "department": "Desayuno"
+      },
+      {
+        "amount": 300,
+        "unit": "g",
+        "name": "Zumo de naranja envasado pasteurizado",
+        "department": "Zumos"
+      }
+    ]
+  },
+  {
+    "recipeName": "Miércoles Comida",
+    "category": [
+      "Comida"
+    ],
+    "priority": 1,
+    "ingredients": [
+      {
+        "amount": 220,
+        "unit": "g",
+        "name": "Pasta Alimenticia,cruda",
+        "department": "Cereal"
+      },
+      {
+        "amount": 200,
+        "unit": "g",
+        "name": "Solomillo de ternera",
+        "department": "Lácteos"
+      },
+      {
+        "amount": 220,
+        "unit": "g",
+        "name": "Tomate frito sin azúcares, Mercadona",
+        "department": "Fruta"
+      },
+      {
+        "amount": 70,
+        "unit": "g",
+        "name": "Queso Parmesano",
+        "department": "Lácteos"
+      }
+    ],
+    "comment": "Comida del miércoles"
+  },
+  {
+    "recipeName": "Lunes Merienda/Cena",
+    "category": [
+      "Merienda/Cena"
+    ],
+    "priority": 1,
+    "ingredients": [
+      {
+        "amount": 250,
+        "unit": "g",
+        "name": "Queso fresco batido desnatado",
+        "department": "Lácteo"
+      },
+      {
+        "amount": 40,
+        "unit": "g",
+        "name": "Crema de Cacahuete (2 cucharadas soperas)",
+        "department": "Snack"
+      },
+      {
+        "amount": 300,
+        "unit": "g",
+        "name": "2 Plátanos",
+        "department": "Fruta"
+      },
+      {
+        "amount": 40,
+        "unit": "g",
+        "name": "Avena Crunchy 85% Integral Hacendado",
+        "department": "Cereal"
+      }
+    ]
   }
 ]
