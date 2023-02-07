@@ -1,7 +1,9 @@
 [
   {
     "recipeName": "Arroz Metabolico Atun y Huevo",
-    "category": ["Meals"],
+    "category": [
+      "Meals"
+    ],
     "priority": 1,
     "ingredients": [
       {
@@ -24,5 +26,67 @@
       }
     ],
     "comment": "Facil y sencillo, juntas los tres ingredientes y queda de lujo"
+  },
+  {
+    "recipeName": "Pasta con pollo al ajillo",
+    "category": [
+      "Meals"
+    ],
+    "priority": 1,
+    "ingredients": [
+      {
+        "amount": 100,
+        "unit": "g",
+        "name": "Pollo",
+        "department": "Kühlregal"
+      },
+      {
+        "amount": 80,
+        "unit": "g",
+        "name": "Pasta cruda",
+        "department": "Obst- und Gemüse"
+      },
+      {
+        "amount": 60,
+        "unit": "g",
+        "name": "Vino blanco",
+        "department": "Obst- und Gemüse"
+      }
+    ],
+    "comment": "Facil y sencillo, juntas los tres ingredientes y queda de lujo"
+  },
+  {
+    "recipeName": "La Gluper Pizza",
+    "category": [
+      "Meals"
+    ],
+    "priority": 1,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": "Packung",
+        "name": "Base de Pizza Extrafina Mercadona 140g",
+        "department": "Kühlregal"
+      },
+      {
+        "amount": 70,
+        "unit": "g",
+        "name": "Tomate Frito sin Azucares Mercadona",
+        "department": "Obst- und Gemüse"
+      },
+      {
+        "amount": 100,
+        "unit": "g",
+        "name": "Queso emmental",
+        "department": "Obst- und Gemüse"
+      },
+      {
+        "amount": 100,
+        "unit": "g",
+        "name": "Tiras de pechuga de pollo asado Mercadona",
+        "department": "Obst- und Gemüse"
+      }
+    ],
+    "comment": "Facil y sencillo, juntas los tres ingredientes y queda de lujo"
   }
-  ]
+]
