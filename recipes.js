@@ -9,7 +9,7 @@ xmlhttp.onreadystatechange = function() {
 
 xmlhttp.open(
   "GET",
-  "https://github.com/PBretones/recipe-shoppinglist-generator/blob/master/recipes.json",
+  "https://raw.githubusercontent.com/PBretones/recipe-shoppinglist-generator/master/recipes.json",
   false
 );
 
