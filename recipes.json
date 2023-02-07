@@ -99,7 +99,7 @@
       {
         "amount": 150,
         "unit": "g",
-        "name": "2 Bagels Classico",
+        "name": "Bagel Classico",
         "department": "Pan"
       },
       {
@@ -125,41 +125,33 @@
     "priority": 1,
     "ingredients": [
       {
-        "amount": 380,
+        "amount": 110,
         "unit": "g",
-        "name": "Arroz Metabolico Atun y Huevo",
-        "ingredients": [
-          {
-            "amount": 110,
-            "unit": "g",
-            "name": "Arroz",
-            "department": "Kühlregal"
-          },
-          {
-            "amount": 2,
-            "unit": "Packung",
-            "name": "Rucula SalatAtun",
-            "department": "Obst- und Gemüse"
-          },
-          {
-            "amount": 2,
-            "unit": "Packung",
-            "name": "Huevo",
-            "department": "Obst- und Gemüse"
-          }
-        ],
-        "department": "Comilona"
+        "name": "Arroz",
+        "department": "Kühlregal"
+      },
+      {
+        "amount": 2,
+        "unit": "Packung",
+        "name": "Rucula SalatAtun",
+        "department": "Obst- und Gemüse"
+      },
+      {
+        "amount": 2,
+        "unit": "Packung",
+        "name": "Huevo",
+        "department": "Obst- und Gemüse"
       },
       {
         "amount": 65,
         "unit": "g",
-        "name": "2 Paquetes de tortitas Maiz 54% Chocolate Negro",
+        "name": "Paquete de tortitas Maiz 54% Chocolate Negro",
         "department": "Lácteos"
       },
       {
-        "amount": 220,
-        "unit": "g",
-        "name": "2 Kiwis",
+        "amount": 2,
+        "unit": "Pieza",
+        "name": "Kiwi",
         "department": "Fruta"
       }
     ],
@@ -329,34 +321,46 @@
     "priority": 1,
     "ingredients": [
       {
-        "amount": 220,
+        "amount": 200,
         "unit": "g",
-        "name": "Pasta Alimenticia,cruda",
+        "name": "Pisto Manchego Felix Soto Hipercor",
         "department": "Cereal"
       },
       {
-        "amount": 200,
+        "amount": 250,
         "unit": "g",
-        "name": "Solomillo de ternera",
-        "department": "Lácteos"
+        "name": "Arroz Basmati Microondas",
+        "department": "Cereal"
       },
       {
-        "amount": 220,
+        "amount": 140,
         "unit": "g",
-        "name": "Tomate frito sin azúcares, Mercadona",
+        "name": "Tiras de pechuga de pollo asado Mercadona",
+        "department": "Cereal"
+      },
+      {
+        "amount": 90,
+        "unit": "g",
+        "name": "Pan Integral de Barra",
+        "department": "Pan"
+      },
+      {
+        "amount": 1,
+        "unit": "Pieza",
+        "name": "Kiwi",
         "department": "Fruta"
       },
       {
-        "amount": 70,
+        "amount": 30,
         "unit": "g",
-        "name": "Queso Parmesano",
-        "department": "Lácteos"
+        "name": "Avellana cruda",
+        "department": "Frutos Secos"
       }
     ],
     "comment": "Comida del miércoles"
   },
   {
-    "recipeName": "Lunes Merienda/Cena",
+    "recipeName": "Miércoles Merienda/Cena",
     "category": [
       "Merienda/Cena"
     ],
@@ -386,6 +390,419 @@
         "name": "Avena Crunchy 85% Integral Hacendado",
         "department": "Cereal"
       }
+    ],
+    "comment": "Comida del miércoles"
+  },
+  {
+    "recipeName": "Jueves Media Mañana",
+    "category": [
+      "Media Mañana"
+    ],
+    "priority": 1,
+    "ingredients": [
+      {
+        "amount": 150,
+        "unit": "g",
+        "name": "Bagel Classico",
+        "department": "Pan"
+      },
+      {
+        "amount": 50,
+        "unit": "g",
+        "name": "2 Lonchas de queso manchego",
+        "department": "Lácteos"
+      },
+      {
+        "amount": 90,
+        "unit": "g",
+        "name": "Pechuga de Pavo",
+        "department": "Obst- und Gemüse"
+      }
+    ],
+    "comment": "Media mañana del jueves"
+  },
+  {
+    "recipeName": "Jueves Comida",
+    "category": [
+      "Comida"
+    ],
+    "priority": 1,
+    "ingredients": [
+      {
+        "amount": 707,
+        "unit": "g",
+        "name": "2 porciones de pasta con pollo al ajillo",
+        "department": "Carne"
+      },
+      {
+        "amount": 50,
+        "unit": "g",
+        "name": "Pasta Alimenticia,cruda",
+        "department": "Cereal"
+      },
+      {
+        "amount": 20,
+        "unit": "g",
+        "name": "2 Onzas de Chocolate Negro 85%",
+        "department": "Lácteos"
+      },
+      {
+        "amount": 215,
+        "unit": "g",
+        "name": "Mandarinas",
+        "department": "Fruta"
+      }
+    ],
+    "comment": "Comida del jueves"
+  },
+  {
+    "recipeName": "Jueves Cena",
+    "category": [
+      "Media Mañana"
+    ],
+    "priority": 1,
+    "ingredients": [
+      {
+        "amount": 40,
+        "unit": "g",
+        "name": "Avellana cruda",
+        "department": "Frutos Secos"
+      },
+      {
+        "amount": 240,
+        "unit": "g",
+        "name": "2 Yogures proteicos (Natural,Chocolate,Mango,Arándano o Fresa)",
+        "department": "Lácteos"
+      },
+      {
+        "amount": 2,
+        "unit": "Pieza",
+        "name": "Kiwi",
+        "department": "Fruta"
+      }
+    ],
+    "comment": "Media mañana del jueves"
+  },
+  {
+    "recipeName": "Viernes Media Mañana",
+    "category": [
+      "Media Mañana"
+    ],
+    "priority": 1,
+    "ingredients": [
+      {
+        "amount": 150,
+        "unit": "g",
+        "name": "Pan Integral de Barra",
+        "department": "Pan"
+      },
+      {
+        "amount": 90,
+        "unit": "g",
+        "name": "Jamon Serrano",
+        "department": "Desayuno"
+      },
+      {
+        "amount": 9,
+        "unit": "g",
+        "name": "Aceite Oliva (cucharada)",
+        "department": "Desayuno"
+      },
+      {
+        "amount": 400,
+        "unit": "g",
+        "name": "Zumo de naranja envasado pasteurizado",
+        "department": "Zumos"
+      },
+      {
+        "amount": 50,
+        "unit": "g",
+        "name": "Anacardos",
+        "department": "Frutos Secos"
+      }
     ]
-  }
-]
+  },
+  {
+    "recipeName": "Viernes Comida",
+    "category": [
+      "Comida"
+    ],
+    "priority": 1,
+    "ingredients": [
+      {
+        "amount": 130,
+        "unit": "g",
+        "name": "Arroz integral,crudo",
+        "department": "Cereal"
+      },
+      {
+        "amount": 3,
+        "unit": "Pieza",
+        "name": "Huevo",
+        "department": "Lácteos"
+      },
+      {
+        "amount": 100,
+        "unit": "g",
+        "name": "Tomate Frito sin Azucares Mercadona",
+        "department": "Lácteos"
+      },
+      {
+        "amount": 180,
+        "unit": "g",
+        "name": "Lomo de cerdo",
+        "department": "Lácteos"
+      },
+      {
+        "amount": 240,
+        "unit": "g",
+        "name": "2 Yogures proteicos (Natural,Chocolate,Mango,Arándano o Fresa)",
+        "department": "Lácteos"
+      }
+    ],
+    "comment": "Comida del jueves"
+  },
+  {
+    "recipeName": "Viernes Merienda/Cena",
+    "category": [
+      "Comida"
+    ],
+    "priority": 1,
+    "ingredients": [
+      {
+        "amount": 40,
+        "unit": "g",
+        "name": "Proteina Whey",
+        "department": "Cereal"
+      },
+      {
+        "amount": 75,
+        "unit": "g",
+        "name": "Bagel Classico",
+        "department": "Pan"
+      },
+      {
+        "amount": 40,
+        "unit": "g",
+        "name": "Lomo embuchado",
+        "department": "Lácteos"
+      },
+      {
+        "amount": 30,
+        "unit": "g",
+        "name": "Tortitas Arroz Chocolate Blanco sabor Yogur",
+        "department": "Lácteos"
+      }
+    ],
+    "comment": "Comida del jueves"
+  },
+  {
+    "recipeName": "Sabado Media Mañana",
+    "category": [
+      "Media Mañana"
+    ],
+    "priority": 1,
+    "ingredients": [
+      {
+        "amount": 150,
+        "unit": "g",
+        "name": "Pan Integral de Barra",
+        "department": "Pan"
+      },
+      {
+        "amount": 90,
+        "unit": "g",
+        "name": "Lomo embuchado",
+        "department": "Desayuno"
+      },
+      {
+        "amount": 9,
+        "unit": "g",
+        "name": "Aceite Oliva (cucharada)",
+        "department": "Desayuno"
+      },
+      {
+        "amount": 500,
+        "unit": "g",
+        "name": "Zumo de naranja envasado pasteurizado",
+        "department": "Zumos"
+      }
+    ],
+    "comment": "Media mañana del Sabado"
+  },
+  {
+    "recipeName": "Sabado Comida",
+    "category": [
+      "Media Mañana"
+    ],
+    "priority": 1,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": "Packung",
+        "name": "Base de Pizza Extrafina Mercadona 140g",
+        "department": "Kühlregal"
+      },
+      {
+        "amount": 70,
+        "unit": "g",
+        "name": "Tomate Frito sin Azucares Mercadona",
+        "department": "Obst- und Gemüse"
+      },
+      {
+        "amount": 100,
+        "unit": "g",
+        "name": "Queso emmental",
+        "department": "Obst- und Gemüse"
+      },
+      {
+        "amount": 100,
+        "unit": "g",
+        "name": "Tiras de pechuga de pollo asado Mercadona",
+        "department": "Obst- und Gemüse"
+      },
+      {
+        "amount": 300,
+        "unit": "g",
+        "name": "2 Plátanos",
+        "department": "Fruta"
+      },
+      {
+        "amount": 20,
+        "unit": "g",
+        "name": "2 Onzas de Chocolate Negro 85%",
+        "department": "Lácteos"
+      }
+    ],
+    "comment": "Media mañana del Sabado"
+  },
+  {
+    "recipeName": "Sabado Merienda/Cena",
+    "category": [
+      "Merienda/Cena"
+    ],
+    "priority": 1,
+    "ingredients": [
+      {
+        "amount": 70,
+        "unit": "g",
+        "name": "Tortitas Bicentury Sabor Jamón",
+        "department": "Snacks"
+      },
+      {
+        "amount": 40,
+        "unit": "g",
+        "name": "Proteina Whey",
+        "department": "Lácteos"
+      },
+      {
+        "amount": 180,
+        "unit": "g",
+        "name": "1 Manzana",
+        "department": "Fruta"
+      }
+    ],
+    "comment": "Merienda/Cena del Sabado"
+  },
+  {
+    "recipeName": "Domingo Media Mañana",
+    "category": [
+      "Media Mañana"
+    ],
+    "priority": 1,
+    "ingredients": [
+      {
+        "amount": 150,
+        "unit": "g",
+        "name": "Pan Integral de Barra",
+        "department": "Pan"
+      },
+      {
+        "amount": 50,
+        "unit": "g",
+        "name": "2 Lonchas de queso manchego",
+        "department": "Lácteos"
+      },
+      {
+        "amount": 80,
+        "unit": "g",
+        "name": "Lomo embuchado",
+        "department": "Desayuno"
+      },
+      {
+        "amount": 3,
+        "unit": "g",
+        "name": "Paquete de tortitas Maiz 54% Chocolate Negro",
+        "department": "Lácteos"
+      }
+    ],
+    "comment": "Merienda/Cena del Sabado"
+  },
+  {
+    "recipeName": "Domingo Comida",
+    "category": [
+      "Comida"
+    ],
+    "priority": 1,
+    "ingredients": [
+      {
+        "amount": 294,
+        "unit": "g",
+        "name": "Hamburguesagasti",
+        "department": "Pan"
+      },
+      {
+        "amount": 400,
+        "unit": "g",
+        "name": "Patatas Gajo Rústica",
+        "department": "Lácteos"
+      },
+      {
+        "amount": 240,
+        "unit": "g",
+        "name": "2 Yogures proteicos (Natural,Chocolate,Mango,Arándano o Fresa)",
+        "department": "Lácteos"
+      },
+      {
+        "amount": 2,
+        "unit": "Pieza",
+        "name": "Kiwi",
+        "department": "Fruta"
+      }
+    ],
+    "comment": "Merienda/Cena del Sabado"
+  },
+  {
+    "recipeName": "Domingo Merienda/Cena",
+    "category": [
+      "Merienda/Cena"
+    ],
+    "priority": 1,
+    "ingredients": [
+      {
+        "amount": 65,
+        "unit": "g",
+        "name": "Paquete de tortitas Maiz 54% Chocolate Negro",
+        "department": "Lácteos"
+      },
+      {
+        "amount": 100,
+        "unit": "g",
+        "name": "Pechuga de Pavo",
+        "department": "Obst- und Gemüse"
+      },
+      {
+        "amount": 50,
+        "unit": "g",
+        "name": "Queso para untar",
+        "department": "Lácteos"
+      },
+      {
+        "amount": 500,
+        "unit": "g",
+        "name": "Zumo de naranja envasado pasteurizado",
+        "department": "Zumos"
+      }
+    ],
+    "comment": "Merienda/Cena del Sabado"
+  }]
